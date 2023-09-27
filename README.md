@@ -18,3 +18,5 @@ Le projet Talend se divise en 3 partie :
 
 (La deuxième étape peut prendre du temps car il charge dans la base tous les informations de chaque année présent au sein des fichiers en entrée);
 
+Pour lancer le projet lancer : pipeline_report_run.bat (windows)
+
