@@ -1,6 +1,6 @@
-# A pipeline_report
+# pipeline_report
 
-### A Géneration d'un report selon template Excel via Talend
+### Géneration d'un report selon template Excel via Talend
 
 Composant du projet : 
 
