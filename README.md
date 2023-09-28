@@ -2,6 +2,8 @@
 
 ### Géneration d'un report selon template Excel via Talend
 
+Version : Talend for DI 8.0.1
+
 Composant du projet : 
 
  - une base de données Mysql à importer : _data/database/astekdb.sql_
